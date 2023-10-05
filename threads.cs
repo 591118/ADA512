@@ -1,3 +1,7 @@
+using System;
+
+namespace ADA512{
+
 class Tråd {
 
     static void Main (String[] args) {
@@ -49,6 +53,8 @@ class Tråd {
         e.Set();        // "åpner døren"        -> 1 tråd kommer inn
 
     }
+
+}
 
 }
 
