@@ -1,0 +1,4 @@
+C:\Users\even\OneDrive\Skrivebord\ADA512\obj\Debug\net7.0\ADA512.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\even\OneDrive\Skrivebord\ADA512\obj\Debug\net7.0\ADA512.AssemblyInfoInputs.cache
+C:\Users\even\OneDrive\Skrivebord\ADA512\obj\Debug\net7.0\ADA512.AssemblyInfo.cs
+C:\Users\even\OneDrive\Skrivebord\ADA512\obj\Debug\net7.0\ADA512.csproj.CoreCompileInputs.cache
